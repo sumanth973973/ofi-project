@@ -16,3 +16,24 @@ It analyzes logistics data, predicts potential delivery delays, and visualizes o
 ---
 
 ### 🧱 Folder Structure
+
+ofi-project/
+│
+├── app.py # Main Streamlit dashboard
+├── README.md # Documentation
+├── requirements.txt # Dependencies
+├── model/
+│ └── delay_model.pkl # Trained machine learning model
+└── data/
+├── orders.csv
+├── delivery_performance.csv
+├── routes_distance.csv
+├── cost_breakdown.csv
+├── customer_feedback.csv
+├── warehouse_inventory.csv
+
+### 👩‍💻 Author
+**kachireddy sai sumanth reddy**
+AI Intern — OFI Case Study 2025  
+📧 [sumanth.chinnu973@gmail.com]
+🏫 [JAIN UNIVERSITY]
